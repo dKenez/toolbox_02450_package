@@ -1,5 +1,5 @@
-# toolbox_02450
-The toolbox used in course 02450 at DTU with additional boilerplate for packaging.
+# How to package toolbox_02450
+Additional boilerplate for packaging the toolbox used in course 02450 at DTU 
 
 
 ## Installation
